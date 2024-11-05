@@ -1,0 +1,24 @@
+# ninja log v5
+97	1320	7524736557971119	CMakeFiles/CubeMxTest04.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	42327836a3b3e619
+18	1333	7524736557971119	CMakeFiles/CubeMxTest04.dir/Core/Src/stm32f4xx_hal_msp.c.obj	8bef96003c21e765
+30	1390	7524736558665346	CMakeFiles/CubeMxTest04.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj	6ef412f38cc22108
+42	1401	7524736558495165	CMakeFiles/CubeMxTest04.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	228f1543fbf8b879
+49	1409	7524736558434945	CMakeFiles/CubeMxTest04.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	c5239285d96e3b20
+215	1417	7524736558495165	CMakeFiles/CubeMxTest04.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	72ad201e747c68ee
+7	1426	7524736558495165	CMakeFiles/CubeMxTest04.dir/Core/Src/main.c.obj	c392576502e61772
+35	1509	7524736558809531	CMakeFiles/CubeMxTest04.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	9906b06cedbf7823
+24	1658	7524736560645468	CMakeFiles/CubeMxTest04.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj	9e42d218c5dd95e4
+197	1662	7524736559777149	CMakeFiles/CubeMxTest04.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	28760172c6b80242
+118	1663	7524736560048233	CMakeFiles/CubeMxTest04.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	542377ee9d871af6
+207	1692	7524736560048233	CMakeFiles/CubeMxTest04.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	33848fbb5a5e258f
+109	1719	7524736560605868	CMakeFiles/CubeMxTest04.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	482a1d7676ea0546
+13	1720	7524736561489500	CMakeFiles/CubeMxTest04.dir/Core/Src/stm32f4xx_it.c.obj	2c97b22bdd3bcc9a
+1509	1815	7524736563138618	CMakeFiles/CubeMxTest04.dir/startup_stm32f411xe.s.obj	b56560a74787521d
+1417	1964	7524736564695409	CMakeFiles/CubeMxTest04.dir/Core/Src/sysmem.c.obj	51a2f1069ec8723f
+1427	2169	7524736566609735	CMakeFiles/CubeMxTest04.dir/Core/Src/syscalls.c.obj	c448b3351b8350a8
+1410	2180	7524736566689777	CMakeFiles/CubeMxTest04.dir/Core/Src/system_stm32f4xx.c.obj	263662dbfde95efe
+1323	2231	7524736567327630	CMakeFiles/CubeMxTest04.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	965bd322f5c00514
+1401	2255	7524736567625859	CMakeFiles/CubeMxTest04.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	db2f8920b1c33a6b
+1333	2264	7524736567625859	CMakeFiles/CubeMxTest04.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	ce0b693b1c2ee739
+1390	2306	7524736568036377	CMakeFiles/CubeMxTest04.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	c6dcf81367671843
+33	427	7524736942216175	CubeMxTest04.elf	c22d8c8f109cfcd6
